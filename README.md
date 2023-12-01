@@ -1,1 +1,1 @@
-# Simpel consolapp för att interagera med windows filsystem byggt i C#.
+# Simpel konsolapp för att interagera med windows filsystem byggd i C#.
