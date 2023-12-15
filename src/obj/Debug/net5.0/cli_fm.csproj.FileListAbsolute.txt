@@ -1,0 +1,16 @@
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\bin\Debug\net5.0\cli_fm.exe
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\bin\Debug\net5.0\cli_fm.deps.json
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\bin\Debug\net5.0\cli_fm.runtimeconfig.json
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\bin\Debug\net5.0\cli_fm.runtimeconfig.dev.json
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\bin\Debug\net5.0\cli_fm.dll
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\bin\Debug\net5.0\cli_fm.pdb
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\cli_fm.csproj.AssemblyReference.cache
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\cli_fm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\cli_fm.AssemblyInfoInputs.cache
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\cli_fm.AssemblyInfo.cs
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\cli_fm.csproj.CoreCompileInputs.cache
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\cli_fm.dll
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\refint\cli_fm.dll
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\cli_fm.pdb
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\cli_fm.genruntimeconfig.cache
+C:\Users\algot.lindblom1\Documents\prog_src\dotnet_projects\cli_fm\src\obj\Debug\net5.0\ref\cli_fm.dll
